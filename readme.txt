@@ -4,7 +4,7 @@ Donate link: http://txfx.net/wordpress-plugins/donate
 Tags: custom search,search URL, ?s replace,redirect, canonical, search
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: 
+Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
